@@ -1,0 +1,6 @@
+// export const GET_SAMPLE = "GET_SAMPLE";
+export const SAMPLE_ERROR = "SAMPLE_ERROR";
+export const GET_RANDOM_ARRAY = "GET_RANDOM_ARRAY";
+export const GENERATE_RANDOM_ARRAY = "GENERATE_RANDOM_ARRAY";
+
+export const SET_ALGORITHM = "SET_ALGORITHM";
